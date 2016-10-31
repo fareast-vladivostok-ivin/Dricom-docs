@@ -70,7 +70,7 @@
 	"user": {
 		"name": "Ivan Bondar",
 		"license": "P245YC77RUS",
-		"phone": "+79055656146"
+		"phone": "+79055656146",
 		"email": "ivan@mail.ru"
 	},
 	"session": "kjdf8374jdf9893843jjdff98"
